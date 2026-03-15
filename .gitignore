@@ -1,6 +1,3 @@
-/data/*.csv
-/plots/*.png
-/plots/*.pdf
 /build/
 .vscode/
 *.exe
